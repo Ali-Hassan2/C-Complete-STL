@@ -17,6 +17,6 @@ int main() {
         }
     }
 
-    cout << "The maximum second number in the pair array is: " << max2 << endl;
+    cout << "The maximum second number in the pair array is: " << max1 << endl;
     return 0;
 }

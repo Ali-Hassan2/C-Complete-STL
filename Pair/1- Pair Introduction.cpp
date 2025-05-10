@@ -29,6 +29,9 @@ int main() {
         cout << arr[i].second << endl;
     }
 
+    cout << arr[1].first << endl;
+    cout << arr[1].second << endl;
+
 
     return 0;
 }
